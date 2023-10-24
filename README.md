@@ -1,2 +1,2 @@
-# docs.hyperify.io
-Documentation for hyperify.io
+# docs.sendanor.fi (English documentation for Sendanor)
+
